@@ -15,8 +15,8 @@
       },
       "brand": {
         "id": 1,
-        "brandName": "Canon",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+        "name": "Canon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
       }
     },
     {
@@ -34,8 +34,8 @@
       },
       "brand": {
         "id": 1,
-        "brandName": "Canon",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+        "name": "Canon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
       }
     },
     {
@@ -53,8 +53,8 @@
       },
       "brand": {
         "id": 2,
-        "brandName": "Nikon",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+        "name": "Nikon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
       }
     },
     {
@@ -72,8 +72,8 @@
       },
       "brand": {
         "id": 2,
-        "brandName": "Nikon",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+        "name": "Nikon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
       }
     },
     {
@@ -91,8 +91,8 @@
       },
       "brand": {
         "id": 3,
-        "brandName": "Sony",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+        "name": "Sony",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
       }
     },
     {
@@ -110,8 +110,8 @@
       },
       "brand": {
         "id": 3,
-        "brandName": "Sony",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+        "name": "Sony",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
       }
     },
     {
@@ -129,8 +129,8 @@
       },
       "brand": {
         "id": 3,
-        "brandName": "Sony",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/action-camera-sony.jpg"
+        "name": "Sony",
+        "image": "https://www.plazakamera.com/wp-content/uploads/action-camera-sony.jpg"
       }
     },
     {
@@ -148,8 +148,8 @@
       },
       "brand": {
         "id": 4,
-        "brandName": "GoPro",
-        "brandImage": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
+        "name": "GoPro",
+        "image": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
       }
     }
   ],
@@ -173,23 +173,23 @@
   "brands": [
     {
       "id": 1,
-      "brandName": "Canon",
-      "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+      "name": "Canon",
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
     },
     {
       "id": 2,
-      "brandName": "Nikon",
-      "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+      "name": "Nikon",
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
     },
     {
       "id": 3,
-      "brandName": "Sony",
-      "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+      "name": "Sony",
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
     },
     {
       "id": 4,
-      "brandName": "GoPro",
-      "brandImage": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
+      "name": "GoPro",
+      "image": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
     }
   ]
 }
