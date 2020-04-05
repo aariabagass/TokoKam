@@ -14,7 +14,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
       },
       "brand": {
-        "idBrand": 1,
+        "id": 1,
         "brandName": "Canon",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
       }
@@ -33,7 +33,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
       },
       "brand": {
-        "idBrand": 1,
+        "id": 1,
         "brandName": "Canon",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
       }
@@ -52,7 +52,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
       },
       "brand": {
-        "idBrand": 2,
+        "id": 2,
         "brandName": "Nikon",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
       }
@@ -71,7 +71,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
       },
       "brand": {
-        "idBrand": 2,
+        "id": 2,
         "brandName": "Nikon",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
       }
@@ -90,7 +90,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
       },
       "brand": {
-        "idBrand": 3,
+        "id": 3,
         "brandName": "Sony",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
       }
@@ -109,7 +109,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
       },
       "brand": {
-        "idBrand": 3,
+        "id": 3,
         "brandName": "Sony",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
       }
@@ -128,7 +128,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/action-camera.png"
       },
       "brand": {
-        "idBrand": 3,
+        "id": 3,
         "brandName": "Sony",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/action-camera-sony.jpg"
       }
@@ -136,7 +136,7 @@
     {
       "id": 8,
       "name": "GoPro HERO8",
-      "price": 599000,
+      "price": 5599000,
       "image": "https://www.plazakamera.com/wp-content/uploads/2019/10/Jual-GoPro-HERO8-Black-Harga-Terbaik-dan-Spesifikasi.jpg",
       "detail": "GoPro HERO8 Black merupakan kamera aksi generasi terbaru yang dirancang untuk menangkap rekaman yang halus dan stabil dari setiap petualangan terbaru Anda.",
       "created": "",
@@ -147,7 +147,7 @@
         "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/action-camera.png"
       },
       "brand": {
-        "idBrand": 4,
+        "id": 4,
         "brandName": "GoPro",
         "brandImage": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
       }
@@ -172,22 +172,22 @@
   ],
   "brands": [
     {
-      "idBrand": 1,
+      "id": 1,
       "brandName": "Canon",
       "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
     },
     {
-      "idBrand": 2,
+      "id": 2,
       "brandName": "Nikon",
       "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
     },
     {
-      "idBrand": 3,
+      "id": 3,
       "brandName": "Sony",
       "brandImage": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
     },
     {
-      "idBrand": 4,
+      "id": 4,
       "brandName": "GoPro",
       "brandImage": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
     }
